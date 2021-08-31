@@ -1,0 +1,11 @@
+# WeatherPy Observations
+Based on the observed data regarding weather phenomenon near the equator, the following analysis are provided.
+
+### Warmest Isn't The Actual Equator
+The scattor plot of latitude vs max temperature for the captured cities showed that as one approached the equator, max temperatures increased gradually and then inversed.  This might be due to the bulge of earth near its center, which isn't actually the relative, man-made equator.
+
+### No Real Corrleation with Humidity, Cloudiness, Wind Speed
+The other observed weather patterns (humidity, cloudiness, wind speed) do not appear to be affected by proximity to the equator. Even when the results were split between the hemispheres, there was no significant difference that would suggest correlation.  There was however one interesting fact regarding humidity.  The data points were pretty evenly spaced except for an upward gap around the equator that suggests that cities near the here are marginally less humid. 
+
+### Data Limitations
+The limitations of the data is that it does not account for historical weather data - only current data. Weather patterns are complex and cyclical. If the observed data doesn't reflect different seasons, one might reach the wrong conclusions, especially regarding humidity, cloudiness, and wind speed.
